@@ -228,4 +228,4 @@ For technical issues or questions:
 - Ensure all dependencies are properly installed
 \`\`\`
 
-```json file="" isHidden
+\`\`\`json file="" isHidden
